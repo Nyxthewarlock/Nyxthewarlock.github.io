@@ -2,7 +2,7 @@
 published: true
 date: 2024-03-31
 title: my notes on java programming,objects and classes
-url: https://0xn1ghtstalker.github.io/
+url: https://Nyxthewarlock.github.io/
 ---
 ```java
 public class Account {
