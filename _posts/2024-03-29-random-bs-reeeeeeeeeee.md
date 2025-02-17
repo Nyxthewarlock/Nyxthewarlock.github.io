@@ -3,7 +3,7 @@ published: true
 date: 2024-03-28
 title: random bs reeeeeeeeeee
 description: random bs reeeeeeeeeee
-url: https://0xn1ghtstalker.github.io/
+url: https://Nyxthewarlock.github.io/
 ---
 ```python
 def conversation() :
